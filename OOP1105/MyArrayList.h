@@ -1,6 +1,7 @@
 #ifndef MYARRAYLIST_H
 #define MYARRAYLIST_H
 
+//¾Æ¾Æ¾Æ
 using namespace std;
 
 template <typename T>
